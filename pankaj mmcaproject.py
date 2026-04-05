@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import plotly.graph_objects as go
+
 
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(page_title="Cloud Storage Dashboard", layout="wide")
